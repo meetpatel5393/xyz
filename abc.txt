@@ -1,3 +1,7 @@
 hiiiii
 pizzaaaaaaa party 2 
 ok sochate hai kuch
+
+i add this content to check if i only push single test file or etire folder
+
+now i push whole folder
